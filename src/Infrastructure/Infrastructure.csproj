@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DataInputs\" />
+    <Folder Include="Persistances\" />
+  </ItemGroup>
+
 </Project>
